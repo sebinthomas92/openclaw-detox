@@ -6,7 +6,6 @@ Your OpenClaw agents are lying to you. They say "done" when nothing happened. Th
 
 This skill detoxes your system — replacing documentation-based rules (48% compliance) with mechanical enforcement (~100% compliance).
 
-Based on [28 documented failure modes](https://x.com/kloss_xyz/status/2032011756890177552) from real production OpenClaw systems.
 
 ---
 

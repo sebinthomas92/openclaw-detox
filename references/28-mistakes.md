@@ -1,6 +1,5 @@
 # The 28 Mistakes — Quick Reference
 
-Source: klöss (@kloss_xyz), "28 painful mistakes I made with OpenClaw so you don't have to" (March 2026)
 
 ## The Mistakes (Condensed)
 
