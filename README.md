@@ -164,11 +164,6 @@ This skill is the operational mechanics.
 
 ---
 
-## Credits
-
-Failure modes documented by [klöss](https://x.com/kloss_xyz) in ["28 painful mistakes I made with OpenClaw so you don't have to"](https://x.com/kloss_xyz/status/2032011756890177552) (March 2026).
-
-Skill built by [Sebin Thomas](https://github.com/sebinthomas92) and Arya (his OpenClaw Chief of Staff).
 
 ## License
 
