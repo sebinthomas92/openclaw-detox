@@ -1,5 +1,9 @@
 # 🧹 openclaw-detox
 
+[![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange?logo=anthropic&logoColor=white)](https://github.com/sebinthomas92/openclaw-detox) [![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-blue)](https://docs.openclaw.ai) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+> **A Claude Skill for [OpenClaw](https://docs.openclaw.ai)** — Install with `openclaw skills install openclaw-detox.skill` or drop the folder into your skills directory.
+
 **Your agent system is poisoned. This is the cure.**
 
 Your OpenClaw agents are lying to you. They say "done" when nothing happened. They forget corrections you gave them 10 minutes ago. Their health scores say 94% while critical stuff is failing underneath. And every config you imported from someone else's setup made it worse.
